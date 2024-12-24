@@ -34,6 +34,7 @@
 
 - [Flameshot](https://flameshot.org/) - Screen grabber
 - [Quicksilver](https://qsapp.com/) - Powerful application launcher. However, my go to is actually the freemium app [Alfred](https://www.alfredapp.com/)
+- [Keycastr](https://github.com/keycastr/keycastr) - Keystroke visualiser
 
 ## Security
 
@@ -45,3 +46,4 @@
 - [Clipy](https://clipy-app.com/) - hasn't been updated in a while but is an excellent clipboard manager
 - [hidden](https://github.com/dwarvesf/hidden) - configurable apps to hide menu bar icons
 - [Homebrew](https://brew.sh/) - package manager for macOS
+

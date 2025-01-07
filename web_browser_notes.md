@@ -56,7 +56,30 @@ The categorisation of the Firefox forks can be a little misleading, so I'm going
 - [Pale Moon](https://www.palemoon.org/)
 - [Basilisk](https://basilisk-browser.org/)
 - [K-Meleon](http://kmeleonbrowser.org/)
-  - Not updated in a while
+  - Has not been updated in a while
+
+## Mobile Browsers
+
+### Proprietary
+- [Amazon Silk](https://docs.aws.amazon.com/silk/latest/developerguide/what-is-silk.html)
+- [Apple Safari](https://support.apple.com/en-gb/guide/iphone/iph1fbef4daa/ios)
+- [Arc](https://arc.net/search)
+- [Dolphin](https://dolphin.com/)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Microsoft Edge](https://support.microsoft.com/microsoft-edge)
+- [Opera Mobile](https://www.opera.com/browsers)
+- [Puffin Browser](https://www.puffin.com/) [^concerns]
+- [Vivaldi](https://vivaldi.com/)
+- [UC Browser](https://www.ucweb.com/) [^concerns]
+- [Samsung Internet](https://www.samsung.com/us/support/owners/app/samsung-internet)
+- [QQ browser](https://browser.qq.com/)  [^concerns]
+
+### Open Source
+
+- [Brave](https://brave.com/)
+- [Firefox Focus](https://www.mozilla.org/firefox/browsers/mobile/focus/)
+- [Mozilla Firefox](https://www.mozilla.org/firefox/browsers/mobile/)
+- [Waterfox](https://www.waterfox.net/docs/releases/G6.0.8/#_top)
 
 ## Browsers I'm not sure of
 
@@ -88,31 +111,11 @@ The categorisation of the Firefox forks can be a little misleading, so I'm going
   - Traffic passes though the company's servers.
   - See [Wikipedia](https://en.wikipedia.org/wiki/UC_Browser#Privacy_and_security_vulnerabilities) for a summary of issues.
 
-
-## Mobile Browsers
-
-### Proprietary
-- [Amazon Silk](https://docs.aws.amazon.com/silk/latest/developerguide/what-is-silk.html)
-- [Apple Safari](https://support.apple.com/en-gb/guide/iphone/iph1fbef4daa/ios)
-- [Arc](https://arc.net/search)
-- [Dolphin](https://dolphin.com/)
-- [Google Chrome](https://www.google.com/chrome/)
-- [Microsoft Edge](https://support.microsoft.com/microsoft-edge)
-- [Opera Mobile](https://www.opera.com/browsers)
-- [Puffin Browser](https://www.puffin.com/) [^concerns]
-- [Vivaldi](https://vivaldi.com/)
-- [UC Browser](https://www.ucweb.com/) [^concerns]
-- [Samsung Internet](https://www.samsung.com/us/support/owners/app/samsung-internet)
-- [QQ browser](https://browser.qq.com/)  [^concerns]
-
-### Open Source
-
-- [Brave](https://brave.com/)
-- [Firefox Focus](https://www.mozilla.org/firefox/browsers/mobile/focus/)
-- [Mozilla Firefox](https://www.mozilla.org/firefox/browsers/mobile/)
-- [Waterfox](https://www.waterfox.net/docs/releases/G6.0.8/#_top)
-
 ## Privacy Stuff
+
+If, like me, you're not happy with the idea of "Surveillance Capitalism", in the sense that you don't mind ads but do mind that they track you, the choice of browser would be the first step. Then you would want to consider further steps to protect your privacy with browser extensions and testing your browser config.
+
+> **IMPORTANT:** Minimise usage of browser extensions to mitigate unique browser fingerprinting. 
 
 ### Browser Extensions
 

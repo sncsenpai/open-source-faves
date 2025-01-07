@@ -80,6 +80,7 @@ The categorisation of the Firefox forks can be a little misleading, so I'm going
 - [Firefox Focus](https://www.mozilla.org/firefox/browsers/mobile/focus/)
 - [Mozilla Firefox](https://www.mozilla.org/firefox/browsers/mobile/)
 - [Waterfox](https://www.waterfox.net/docs/releases/G6.0.8/#_top)
+- [DuckDuckGo Privacy Browser](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/ "Link to app on F-Droid")
 
 ## Browsers I'm not sure of
 

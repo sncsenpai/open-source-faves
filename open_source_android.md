@@ -50,6 +50,6 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 - [LocalSend](https://localsend.org/ "LocalSend") - cross-platform file sharing.
   - Note: this is WiFi-based and devices need to be on the same network.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather "Breezy Weather on GitHub") - Weather app with a nice looking UI.
-- [LibreSpeed](https://f-droid.org/packages/com.dosse.speedtest/ "LibreSpeed on F-Droid") - Forget speedtest.net. 🤮
+- [LibreSpeed App](https://f-droid.org/packages/com.dosse.speedtest/ "LibreSpeed on F-Droid") - Unofficial app for [LibreSpeed - Speed Test](https://librespeed.org/) website. Forget speedtest.net. 🤮
 
 [^1]: Currently being evaluatated.

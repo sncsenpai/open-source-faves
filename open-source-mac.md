@@ -1,5 +1,7 @@
 # Free/Open Source Applications for macOS
 
+This is not an exhaustive list, but what I like and do use on macOS.
+
 ## Audio/Video Players
 
 - [Audacious](https://audacious-media-player.org/)
@@ -8,20 +10,20 @@
 
 ## Audio Tools
 
-- [fre:ac](https://www.freac.org/)
+- [fre:ac](https://www.freac.org/) - Convert from CD to audio file
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Music tagger based on MusicBrainz, an online music metadata database
 
 ## Browsers
 
 - [Zen Browser](https://zen-browser.app/) - Firefox fork with emphasis on vertical and split tabs
 - [Brave](https://brave.com/) - Chromium-based based
-- [Browserosaurus](https://browserosaurus.com/)
+- [Browserosaurus](https://browserosaurus.com/) - intercepts link clicked on (in non-browser app) and select which browser it opens up in
 
 ## Communication
 
 - [Thunderbird](https://www.thunderbird.net/en-GB/) - Cross-platform Email client
 - [Signal Desktop](https://signal.org/) - Secure messaging
-- [Telegram for macOS](https://macos.telegram.org/)
+- [Telegram for macOS](https://macos.telegram.org/) - macOS client for messaging
 
 ## Development
 

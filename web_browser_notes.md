@@ -23,7 +23,7 @@ I have collated all my notes into one places and sharing them in case you're int
 
 ## Open Source Desktop Browsers
 
-The categorisation of the Firefox forks can be a little misleading, so I'm going a little lower level than expected. Modern Firefox ESR releases are not using the Gecko engine, which has roots in the original Netscape Communication suite that was open sourced by AOL.[^1] Goanna-based browsers were forked from Gecko before Mozilla deprecated it, and both are maintained separately.
+The categorisation of the Firefox forks can be a little misleading, so I'm going a little lower level than expected. Modern Firefox ESR releases are not using the Gecko engine, which has roots in the original Netscape Communication suite that was open sourced by AOL.[^1] Goanna-based browsers were forked from Gecko before Mozilla's enhancements (Quantum), and both are maintained separately.
 
 - [Firefox](https://getfirefox.com/)-based
 - [Chromium](https://www.chromium.org/Home/)-based
@@ -132,6 +132,25 @@ If, like me, you're not happy with the idea of "Surveillance Capitalism", in the
 - [Privacy Guides #Desktop Browsers](https://www.privacyguides.org/en/desktop-browsers/)
   > We recommend [Mullvad Browser](https://www.privacyguides.org/en/desktop-browsers/#mullvad-browser) if you are focused on strong privacy protections and anti-fingerprinting out of the box, [Firefox](https://www.privacyguides.org/en/desktop-browsers/#firefox) for casual internet browsers looking for a good alternative to Google Chrome, and [Brave](https://www.privacyguides.org/en/desktop-browsers/#brave) if you need Chromium browser compatibility.
 
+## Concluding remarks
+
+I am indeed fond of the idea of an ecosystem with our software and hardware, however the vendor lock-in, or the walled-garden is a major distractor. Apple is not the only one at fault. Even Samsung, despite their mobile devices being Android-based, has a Samsung-only approach. For example, Samsung Notes is available only on Samsung-branded Windows machines [^16], and  Samsung Internet does not sync with any other browser on a desktop [^17]. 
+
+It's also very interesting to observe that the selection of Chromium-based and mobile open source browsers was limited. Though, that did help with my final selection including the need to have some of that "fluidity" between devices.
+
+So I have settled on two choices of browsers, because why not have the best of the Chromium and Gecko?
+
+### Choices
+
+1. Chromium browser: **Brave** for both desktop and mobile. 
+   - I will use this for work purposes.
+   - I really like the idea of using sync codes to link my devices.
+2. Gecko browser: **Zen Browser** for desktop and **Waterfox** for mobile.
+   - Used personally as my daily driver.
+   - Zen Browser's approach to having vertical tabs and side-by-side views is very useful for research.
+   - Waterfox is a slightly scaled down implementation of Firefox, so there are some privacy and performance gains.
+   - I use the Mozilla account to sync browser tabs and history between devices.
+
 [^1]: Wikipedia: [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator)
 [^2]: [Introducing: Goanna](https://forum.palemoon.org/viewtopic.php?f=1&t=8607)
 [^3]: Pale Moon Forum: [What are the differences with Firefox?](https://forum.palemoon.org/viewtopic.php?f=24&t=139#p461)
@@ -147,4 +166,5 @@ If, like me, you're not happy with the idea of "Surveillance Capitalism", in the
 [^13]: Extension available in [Opera store](https://addons.opera.com/)
 [^14]: Extension available in [Microsoft Edge store](https://microsoftedge.microsoft.com/)
 [^15]: [This extension may soon no longer be supported on Chrome](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22)
-
+[^16]: An article on XDA provides a [workaround](https://www.xda-developers.com/get-samsung-notes-windows-10-app/).
+[^17]: Well, you can access previously viewed browser pages using [Phone Link on Windows](https://www.microsoft.com/windows/sync-across-your-devices), which will open on your default browser. But there's no equivalent for macOS.

@@ -28,8 +28,9 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 
 ## Productivity
 
-- [Flow Launcher](https://www.flowlauncher.com/) - An application launcher similar to Spotlight/Alfred on macOS.
+- [Flow Launcher](https://www.flowlauncher.com/) - An application launcher similar to Spotlight/Alfred on macOS
 - [Keyviz](https://mularahul.github.io/keyviz/) - Keystroke visualiser
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Mirror video and audio from your Android device. Really useful when presenting mobile apps
 
 ## Security
 

@@ -68,11 +68,11 @@ The categorisation of the Firefox forks can be a little misleading, so I'm going
 - [Google Chrome](https://www.google.com/chrome/)
 - [Microsoft Edge](https://support.microsoft.com/microsoft-edge)
 - [Opera Mobile](https://www.opera.com/browsers)
-- [Puffin Browser](https://www.puffin.com/) [^concerns]
+- [Puffin Browser](https://www.puffin.com/) [^5]
 - [Vivaldi](https://vivaldi.com/)
-- [UC Browser](https://www.ucweb.com/) [^concerns]
+- [UC Browser](https://www.ucweb.com/) [^5]
 - [Samsung Internet](https://www.samsung.com/us/support/owners/app/samsung-internet)
-- [QQ browser](https://browser.qq.com/)  [^concerns]
+- [QQ browser](https://browser.qq.com/)  [^5]
 
 ### Open Source
 
@@ -87,7 +87,7 @@ The categorisation of the Firefox forks can be a little misleading, so I'm going
   - Chromium-based
   - Proprietary
   - Hong Kong company headquartered Singapore
-  - Historical issues surrounding data privacy[^5]
+  - Historical issues surrounding data privacy[^6]
 - Purposely ignoring other platform specific browsers, such as:
   - [Falkon](https://www.falkon.org/) which is Linux-based.
   - [UC Browser](https://ucweb.com/)
@@ -100,13 +100,13 @@ The categorisation of the Firefox forks can be a little misleading, so I'm going
 - [Epic Browser](https://epicbrowser.com/)
   - Moved from Firefox to Chromium base
   - Features specific to Indian users
-    - Same concern also applies to JioPages/JioSphere[^6]
+    - Same concern also applies to JioPages/JioSphere[^7]
 - [Puffin Secure Browser](https://www.puffin.com/secure-browser)
   - Chromium-based
   - Traffic passes through Puffin servers and pages rendered through the remote browser, but they do indicate a no-log policy
 - [Yandex Browser](https://browser.yandex.com/)
   - Chromium-based
-  - Association to Russia is a sensitive area and there have been legal issues in this regard[^7]
+  - Association to Russia is a sensitive area and there have been legal issues in this regard[^8]
 - [UC Browser](https://www.ucweb.com/) has a history of privacy and security concerns. 
   - Traffic passes though the company's servers.
   - See [Wikipedia](https://en.wikipedia.org/wiki/UC_Browser#Privacy_and_security_vulnerabilities) for a summary of issues.
@@ -119,10 +119,10 @@ If, like me, you're not happy with the idea of "Surveillance Capitalism", in the
 
 ### Browser Extensions
 
-- [Decentraleyes](https://decentraleyes.org/) [^Firefox Add-on] [^Firefox Mobile] [^Chrome Extension] [^Pale Moon Extension] [^Opera Extension] [^MS Edge Extension]
-- [Privacy Badger](https://privacybadger.org/) [^Firefox Add-on] [^Firefox Mobile] [^Chrome Extension] [^Opera Extension] [^MS Edge Extension]
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [^Firefox Add-on] [^Firefox Mobile] [^Opera Extension] [^MS Edge Extension] [^8]
-- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) [^Firefox Add-on] [^Firefox Mobile] [^Chrome Extension] [^MS Edge Extension]
+- [Decentraleyes](https://decentraleyes.org/) [^10] [^11] [^12] [^15] [^13] [^14]
+- [Privacy Badger](https://privacybadger.org/) [^10] [^11] [^12] [^13] [^14]
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [^10] [^11] [^13] [^14] [^9]
+- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) [^10] [^11] [^12] [^14]
 
 ### Privacy Tools
 
@@ -132,20 +132,19 @@ If, like me, you're not happy with the idea of "Surveillance Capitalism", in the
 - [Privacy Guides #Desktop Browsers](https://www.privacyguides.org/en/desktop-browsers/)
   > We recommend [Mullvad Browser](https://www.privacyguides.org/en/desktop-browsers/#mullvad-browser) if you are focused on strong privacy protections and anti-fingerprinting out of the box, [Firefox](https://www.privacyguides.org/en/desktop-browsers/#firefox) for casual internet browsers looking for a good alternative to Google Chrome, and [Brave](https://www.privacyguides.org/en/desktop-browsers/#brave) if you need Chromium browser compatibility.
 
------
-
 [^1]: Wikipedia: [Netscape Communicator](https://en.wikipedia.org/wiki/Netscape_Communicator)
 [^2]: [Introducing: Goanna](https://forum.palemoon.org/viewtopic.php?f=1&t=8607)
 [^3]: Pale Moon Forum: [What are the differences with Firefox?](https://forum.palemoon.org/viewtopic.php?f=24&t=139#p461)
 [^4]: Wikipedia: [Mozilla Application Suite](https://en.wikipedia.org/wiki/Mozilla_Application_Suite)
-[^5]: SecurityWeek: [Maxthon Browser Sends Sensitive Data to China](https://www.securityweek.com/maxthon-browser-sends-sensitive-data-china/)
-[^6]: https://www.jio.com/jcms/apps/jiosphere/
-[^7]: Wikipedia: [Yandex#Legal issues](https://en.wikipedia.org/wiki/Yandex#Legal_issues)
-[^8]: [This extension may soon no longer be supported on Chrome](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22)
-[^concerns]: See [Browsers I'm not sure of](#browsers-im-not-sure-of)
-[^Firefox Add-on]: Add-on available on Firefox
-[^Chrome Extension]: Extension available in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) for Chromium variants
-[^Opera Extension]: Extension available in [Opera store](https://addons.opera.com/)
-[^MS Edge Extension]: Extension available in [Microsoft Edge store](https://microsoftedge.microsoft.com/)
-[^Pale Moon Extension]: Extension available for Pale Moon via [Add-ons Site](https://addons.palemoon.org/extensions/)
-[^Firefox Mobile]: Also available on [Firefox for Android](https://addons.mozilla.org/en-GB/android/)
+[^5]: See [Browsers I'm not sure of](#browsers-im-not-sure-of)
+[^6]: SecurityWeek: [Maxthon Browser Sends Sensitive Data to China](https://www.securityweek.com/maxthon-browser-sends-sensitive-data-china/)
+[^7]: https://www.jio.com/jcms/apps/jiosphere/
+[^8]: Wikipedia: [Yandex#Legal issues](https://en.wikipedia.org/wiki/Yandex#Legal_issues)
+[^9]: [This extension may soon no longer be supported on Chrome](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22)
+[^10]: Add-on available on Firefox
+[^11]: Also available on [Firefox for Android](https://addons.mozilla.org/en-GB/android/)
+[^12]: Extension available in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) for Chromium variants
+[^13]: Extension available in [Opera store](https://addons.opera.com/)
+[^14]: Extension available in [Microsoft Edge store](https://microsoftedge.microsoft.com/)
+[^15]: Extension available for Pale Moon via [Add-ons Site](https://addons.palemoon.org/extensions/)
+

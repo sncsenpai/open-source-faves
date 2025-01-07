@@ -4,9 +4,8 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 
 ## Audio/Video Players
 
-- [Audacious](https://audacious-media-player.org/)
-- [MPV](https://mpv.io/) - Minimalistic player which supports plenty of file formats
-- [IINA](https://iina.io/) - [MPV](https://mpv.io/) re-imagined for macOS
+- [Audacious](https://audacious-media-player.org/ "Audacious")
+- [MPV](https://mpv.io/ "MPV") - Minimalistic player which supports plenty of file formats
 
 ## Audio Tools
 
@@ -21,6 +20,7 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 ## Communication
 
 - [Thunderbird](https://www.thunderbird.net/en-GB/) - Cross-platform Email client
+- [Signal Desktop](https://signal.org/) - Secure messaging
 
 ## Development
 
@@ -28,11 +28,17 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 
 ## Productivity
 
+- [Flow Launcher](https://www.flowlauncher.com/) - An application launcher similar to Spotlight/Alfred on macOS.
+- [Keyviz](https://mularahul.github.io/keyviz/) - Keystroke visualiser
+
 ## Security
 
 - [Bitwarden](https://bitwarden.com/) - Password manager
 - [Ente Auth](https://ente.io/auth/) - 2FA
 
 ## Utilities
+
+- [BleachBit](https://www.bleachbit.org/) - cleanup files and recover disk space
+- [PeaZip](https://peazip.github.io/) - file archiver with 7z support
 
 

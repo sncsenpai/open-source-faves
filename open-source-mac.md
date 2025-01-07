@@ -47,4 +47,5 @@ This is not an exhaustive list, but what I like and do use on macOS.
 - [Clipy](https://clipy-app.com/) - hasn't been updated in a while but is an excellent clipboard manager
 - [hidden](https://github.com/dwarvesf/hidden) - configurable apps to hide menu bar icons
 - [Homebrew](https://brew.sh/) - package manager for macOS
+- [Keka](https://www.keka.io/) - file archiver with 7z support
 

@@ -35,6 +35,7 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 
 - [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader "MJ PDF on GitLab") - Lightweight and minimalist PDF viewer.
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android/ "AnkiDroid on GitHub") - Repetition flashcard system to help with memory retention.[^1]
+- [Linwood Butterfly](https://butterfly.linwood.dev/) - Powerful cross-platform note-taking app.[^1]
 
 ## Security
 
@@ -46,7 +47,7 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 
 ## Utilities
 
-- [Droid-ify](https://droidify.eu.org/ "Droid-ify") - Client to install apps from the F-Droid repo.
+- [Droid-ify](https://droidify.eu.org/ "Droid-ify") - Client to install apps from the F-Droid and IzzyOnDroid repos.
 - [LocalSend](https://localsend.org/ "LocalSend") - cross-platform file sharing.
   - Note: this is WiFi-based and devices need to be on the same network.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather "Breezy Weather on GitHub") - Weather app with a nice looking UI.

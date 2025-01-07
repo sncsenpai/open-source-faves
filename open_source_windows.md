@@ -12,6 +12,10 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 - [fre:ac](https://www.freac.org/) - Convert from CD to audio file.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Music tagger based on MusicBrainz, an online music metadata database.
 
+## Video tools
+
+- [HandBrake](https://handbrake.fr/) - Convert videos files.
+
 ## Browsers
 
 - [Zen Browser](https://zen-browser.app/) - Firefox fork with emphasis on vertical and split tabs.

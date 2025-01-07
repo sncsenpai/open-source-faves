@@ -4,7 +4,7 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 
 ## Audio/Video Players
 
-- [Audacious](https://audacious-media-player.org/ "Audacious") - Minimalist audioplayer.
+- [Audacious](https://audacious-media-player.org/ "Audacious") - Minimalist audio player.
 - [MPV](https://mpv.io/ "MPV") - Minimalistic player which supports plenty of file formats.
 
 ## Audio Tools
@@ -19,7 +19,7 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 ## Browsers
 
 - [Zen Browser](https://zen-browser.app/ "Zen Browser") - Firefox fork with emphasis on vertical and split tabs.
-- [Brave](https://brave.com/ "Brave") - Chromium-based based.
+- [Brave](https://brave.com/ "Brave") - Chromium-based browser.
 
 ## Communication
 
@@ -29,7 +29,7 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 ## Development
 
 - [VSCodium](https://vscodium.com/ "VSCodium") - a FLOSS version of VSCode without Microsoft telemetry.
-  - Download extensions from [Open VSX Reigstry](https://open-vsx.org/).
+  - Download extensions from [Open VSX Reigstry](https://open-vsx.org/ "Open VSX Reigstry").
 - [Mermaid](https://mermaid.js.org/ "Mermaid") - Markdown inspired diagramming tool.
 
 ## Productivity

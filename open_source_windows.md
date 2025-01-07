@@ -51,6 +51,7 @@ This is not an exhaustive list, but what I like and do use on Microsoft Windows.
 
 - [BleachBit](https://www.bleachbit.org/ "BleachBit") - cleanup files and recover disk space.
 - [PeaZip](https://peazip.github.io/ "PeaZip") - file archiver with 7z support. I love 7zip but this interface is better.
-- [LocalSend](https://localsend.org/ "LocalSend") - cross-platform file sharing. Note that this is WiFi-based and devices need to be on the same network.
+- [LocalSend](https://localsend.org/ "LocalSend") - cross-platform file sharing.
+  - **Note:** this is WiFi-based and devices need to be on the same network.
 - [Chocolatey](https://community.chocolatey.org/ "Chocolatey") - Windows equivalent of [Homebrew](https://brew.sh/).
 

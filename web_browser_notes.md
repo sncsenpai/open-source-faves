@@ -121,8 +121,8 @@ If, like me, you're not happy with the idea of "Surveillance Capitalism", in the
 
 - [Decentraleyes](https://decentraleyes.org/) [^9] [^10] [^11] [^12] [^13] [^14]
 - [Privacy Badger](https://privacybadger.org/) [^9] [^10] [^11] [^13] [^14]
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [^9] [^10] [^13] [^14] [^15]
-- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) [^9] [^10] [^11] [^14]
+- [uBlock Origin](https://github.com/gorhill/uBlock) [^9] [^10] [^13] [^14] [^15]
+- [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) [^9] [^10] [^11] [^14]
 
 ### Privacy Tools
 

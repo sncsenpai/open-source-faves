@@ -119,10 +119,10 @@ If, like me, you're not happy with the idea of "Surveillance Capitalism", in the
 
 ### Browser Extensions
 
-- [Decentraleyes](https://decentraleyes.org/) [^10] [^11] [^12] [^15] [^13] [^14]
-- [Privacy Badger](https://privacybadger.org/) [^10] [^11] [^12] [^13] [^14]
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [^10] [^11] [^13] [^14] [^9]
-- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) [^10] [^11] [^12] [^14]
+- [Decentraleyes](https://decentraleyes.org/) [^9] [^10] [^11] [^12] [^13] [^14]
+- [Privacy Badger](https://privacybadger.org/) [^9] [^10] [^11] [^13] [^14]
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) [^9] [^10] [^13] [^14] [^15]
+- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) [^9] [^10] [^11] [^14]
 
 ### Privacy Tools
 
@@ -140,11 +140,11 @@ If, like me, you're not happy with the idea of "Surveillance Capitalism", in the
 [^6]: SecurityWeek: [Maxthon Browser Sends Sensitive Data to China](https://www.securityweek.com/maxthon-browser-sends-sensitive-data-china/)
 [^7]: https://www.jio.com/jcms/apps/jiosphere/
 [^8]: Wikipedia: [Yandex#Legal issues](https://en.wikipedia.org/wiki/Yandex#Legal_issues)
-[^9]: [This extension may soon no longer be supported on Chrome](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22)
-[^10]: Add-on available on Firefox
-[^11]: Also available on [Firefox for Android](https://addons.mozilla.org/en-GB/android/)
-[^12]: Extension available in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) for Chromium variants
+[^9]: Add-on available on Firefox
+[^10]: Also available on [Firefox for Android](https://addons.mozilla.org/en-GB/android/)
+[^11]: Extension available in [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) for Chromium variants
+[^12]: Extension available for Pale Moon via [Add-ons Site](https://addons.palemoon.org/extensions/)
 [^13]: Extension available in [Opera store](https://addons.opera.com/)
 [^14]: Extension available in [Microsoft Edge store](https://microsoftedge.microsoft.com/)
-[^15]: Extension available for Pale Moon via [Add-ons Site](https://addons.palemoon.org/extensions/)
+[^15]: [This extension may soon no longer be supported on Chrome](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22)
 

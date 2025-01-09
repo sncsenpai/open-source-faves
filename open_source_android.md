@@ -36,6 +36,10 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 - [MJ PDF](https://gitlab.com/mudlej_android/mj_pdf_reader "MJ PDF on GitLab") - Lightweight and minimalist PDF viewer.
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android/ "AnkiDroid on GitHub") - Repetition flashcard system to help with memory retention.[^1]
 
+## Wellbeing
+
+- [Noice](https://trynoice.com/) - background noise generator to help you relax
+
 ## Security
 
 - [Bitwarden](https://bitwarden.com/ "Bitwarden") - Password manager.

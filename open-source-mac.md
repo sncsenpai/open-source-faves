@@ -12,6 +12,10 @@ This is not an exhaustive list, but what I like and do use on macOS.
 - [fre:ac](https://www.freac.org/ "fre:ac") - Convert from CD to audio file.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/ "MusicBrainz Picard") - Music tagger based on MusicBrainz, an online music metadata database.
 
+## Video tools
+
+- [HandBrake](https://handbrake.fr/ "HandBrake") - Convert videos files.
+
 ## Browsers
 
 - [Zen Browser](https://zen-browser.app/ "Zen Browser") - Firefox fork with emphasis on vertical and split tabs.

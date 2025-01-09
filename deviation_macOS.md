@@ -10,6 +10,7 @@ This is a list of propietary software that I decided to use rather than going fo
 ## Productivity
 
 - [Alfred](https://www.alfredapp.com/) - has a freemium model and I have actually paid for the Powerpack. I did make my own snippets to use with it ([Special Characters] and [Fraction Shortcuts]).
+- [Typora](https://typora.io/) - Markdown editor with a very simple UI that has real-time preview and can export in multiple formats (using [Pandoc]).[^2]
 
 ## Utilities
 
@@ -19,4 +20,6 @@ This is a list of propietary software that I decided to use rather than going fo
 [Fraction Shortcuts]: https://github.com/sncsenpai/alfred-fc-snippets
 [Affinity Photo]: https://affinity.serif.com/en-gb/photo/
 [Adobe Photoshop]: https://www.adobe.com/products/photoshop.html
+[Pandoc]: https://pandoc.org/
 [^1]: While [GIMP](https://www.gimp.org/) is very powerful, I'm held back by my familiarity with [Adobe Photoshop]. [Affinity Photo] is not free, but it is a fantastic alternative.
+[^2]: This is not free, but I am currently assessing some FOSS alternatives.

@@ -19,11 +19,11 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 
 - [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release "Waterfox on Google Play Store") - Firefox Fork.
 - [Brave](https://brave.com/ "Brave") - Chromium-based browser.
+- [LinkSheet](https://github.com/LinkSheet/LinkSheet) - select which browser to open links into
 
 ## Reading
 
 - [News](https://f-droid.org/en/packages/co.appreactor.news/ "News on F-Droid") - RSS/Atom feed reader client for Nextcloud News.
-
 
 ## Communication
 

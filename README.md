@@ -12,4 +12,4 @@ I do believe in the FOSS/FLOSS movement. This repo is just a bookmark my favouri
   - for [macOS](deviation_macOS.md)
   - for [Windows](deviation_windows.md)
   - for Linux
-  - for Android
+  - for [Android](deviation_android.md)

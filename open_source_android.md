@@ -50,7 +50,8 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 
 ## Utilities
 
-- [Droid-ify](https://droidify.eu.org/ "Droid-ify") - Client to install apps from the F-Droid repo.
+- [Droid-ify](https://droidify.eu.org/ "Droid-ify") - Client to install apps from the [F-Droid](https://f-droid.org) catalogue.
+  - Where I can, I install apps from here over the Google Play store.
 - [LocalSend](https://localsend.org/ "LocalSend") - cross-platform file sharing.
   - Note: this is WiFi-based and devices need to be on the same network.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather "Breezy Weather on GitHub") - Weather app with a nice looking UI.

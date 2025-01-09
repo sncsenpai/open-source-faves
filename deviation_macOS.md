@@ -29,4 +29,4 @@ This is a list of propietary software that I decided to use rather than going fo
 [Rambox]: https://rambox.app/
 [^1]: While [GIMP](https://www.gimp.org/) is very powerful, I'm held back by my familiarity with [Adobe Photoshop]. [Affinity Photo] is not free, but it is a fantastic alternative.
 [^2]: This is not free, but I am currently assessing some FOSS alternatives.
-[^3]: I used [Franz] a while back but it's now following a commercial model and the free version is way too limited. [Ramboz] is similar and no longer open source.
+[^3]: I used [Franz] a while back but it's now following a commercial model and the free version is way too limited. [Rambox] is similar and no longer open source.

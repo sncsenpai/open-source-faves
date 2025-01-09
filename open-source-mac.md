@@ -37,7 +37,8 @@ This is not an exhaustive list, but what I like and do use on macOS.
 - [Quicksilver](https://qsapp.com/) - Powerful application launcher. However, my go to is actually the freemium app [Alfred](https://www.alfredapp.com/)
 - [Keycastr](https://github.com/keycastr/keycastr) - Keystroke visualiser.
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - Mirror video and audio from your Android device. Really useful when presenting mobile apps.
-- [Flameshot](https://flameshot.org/) - Screen grabber with annotations. Closest equivalent I could find to Windows' [Share X](https://getsharex.com/ "Share X").
+- [Flameshot](https://flameshot.org/) - Screen grabber with annotations.
+  - Closest equivalent I could find to Windows' [Share X](https://getsharex.com/ "Share X").
 
 ## Security
 
@@ -54,3 +55,4 @@ This is not an exhaustive list, but what I like and do use on macOS.
 - [Homebrew](https://brew.sh/ "Homebrew") - package manager for macOS.
 - [Clipy](https://clipy-app.com/ "Clipy") - hasn't been updated in a while but is an excellent clipboard manager, which allows saving of snippets.
 - [hidden](https://github.com/dwarvesf/hidden "hidden") - configurable app to hide menu bar icons.
+- [AppCleaner](https://freemacsoft.net/appcleaner/) - thoroughly uninstall apps.

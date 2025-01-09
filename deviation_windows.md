@@ -29,7 +29,7 @@ This is a list of free but propietary software that I decided to use rather than
 - [ClipClip](https://clipclip.com/) - clipboard manager. It is very close to how I use [Clipy] on macOS.
 - [Keka](https://www.keka.io/) - file archiver with 7z support.
 
-[Clippy]: https://clipy-app.com/
+[Clipy]: https://clipy-app.com/
 [Pandoc]: https://pandoc.org/
 [Affinity Photo]: https://affinity.serif.com/en-gb/photo/
 [Adobe Photoshop]: https://www.adobe.com/products/photoshop.html

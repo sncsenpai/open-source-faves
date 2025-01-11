@@ -43,6 +43,7 @@ This is not an exhaustive list, but what I like and do use on macOS.
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - Mirror video and audio from your Android device. Really useful when presenting mobile apps.
 - [Flameshot](https://flameshot.org/) - Screen grabber with annotations.
   - Closest equivalent I could find to Windows' [Share X](https://getsharex.com/ "Share X").
+- [SelfControl](https://selfcontrolapp.com/) - block anything on the Internet to ensure you can focus
 
 ## Security
 

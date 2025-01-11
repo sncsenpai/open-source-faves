@@ -61,3 +61,4 @@ This is not an exhaustive list, but what I like and do use on macOS.
 - [Clipy](https://clipy-app.com/ "Clipy") - hasn't been updated in a while but is an excellent clipboard manager, which allows saving of snippets.
 - [hidden](https://github.com/dwarvesf/hidden "hidden") - configurable app to hide menu bar icons.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - thoroughly uninstall apps.
+- [SquirrelDisk](https://github.com/adileo/squirreldisk) - identify what's taking up space on your machine

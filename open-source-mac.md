@@ -59,6 +59,8 @@ This is not an exhaustive list, but what I like and do use on macOS.
   - **Note:** this is WiFi-based and devices need to be on the same network.
 - [Homebrew](https://brew.sh/ "Homebrew") - package manager for macOS.
 - [Clipy](https://clipy-app.com/ "Clipy") - hasn't been updated in a while but is an excellent clipboard manager, which allows saving of snippets.
+  - I have been drifting away from this in favour of [Alfred](https://alfredapp.com) (not open source).
 - [hidden](https://github.com/dwarvesf/hidden "hidden") - configurable app to hide menu bar icons.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - thoroughly uninstall apps.
-- [SquirrelDisk](https://github.com/adileo/squirreldisk) - identify what's taking up space on your machine
+- [SquirrelDisk](https://github.com/adileo/squirreldisk) - identify what's taking up space on your machine.
+- [AltTab](https://alt-tab-macos.netlify.app/) - app switcher with preview. 

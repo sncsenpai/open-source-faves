@@ -17,7 +17,7 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 
 ## Browsers
 
-- [Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release "Waterfox on Google Play Store") - Firefox Fork.
+- ~[Waterfox](https://play.google.com/store/apps/details?id=net.waterfox.android.release "Waterfox on Google Play Store")~ [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/ "Fennec on F-Droid") - Firefox Fork.
 - [Brave](https://brave.com/ "Brave") - Chromium-based browser.
 - [LinkSheet](https://github.com/LinkSheet/LinkSheet) - select which browser to open links into
 

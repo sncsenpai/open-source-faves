@@ -14,7 +14,7 @@ It's gonna happen, right? Some apps just don't quite hit the mark on the search 
 
 ## Productivity
 
-- [OneNote](https://www.onenote.com/) - Free and powerful note-taking app with good organisation and stylus support.
+- [OneNote](https://www.onenote.com/) - Free and powerful note-taking app with good organisation and stylus support.[^3]
 
 ## Navigation
 
@@ -24,3 +24,4 @@ It's gonna happen, right? Some apps just don't quite hit the mark on the search 
 [OverDrive]: https://www.overdrive.com/apps/libby
 [^1]: XBMC is now [Kodi](https://kodi.tv/)
 [^2]: Powered by [OverDrive]
+[^3]: See [Notetaking apps with stylus support](notetaking_with_stylus_notes.md) for my rundown

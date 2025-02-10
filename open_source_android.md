@@ -43,11 +43,10 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 
 ## Security
 
-- [Bitwarden](https://bitwarden.com/ "Bitwarden") - Password manager.
-- [Ente Auth](https://ente.io/auth/ "Ente Auth") - Multifactor authenticator.
-  - Moved from [Aegis](https://getaegis.app/ "Aegis Authenticator") as Ente supports sync across devices.
-- [NextDNS](https://nextdns.io/ "NextDNS") - An absolutely brilliant DNS filtering (not lookup) of all traffic to protect your security and privacy.
-  - **Disclaimer**: I am paying for the Pro tier and installed on my family's devices.
+- ~[Bitwarden](https://bitwarden.com/ "Bitwarden") - Password manager.~
+- [ProtonVPN](https://f-droid.org/en/packages/ch.protonvpn.android/) - Yup, a VPN client.
+- [Ente Auth](https://ente.io/auth/ "Ente Auth") - Multifactor authenticator.[^1]
+- [NextDNS](https://nextdns.io/ "NextDNS") - An absolutely brilliant DNS filtering (not lookup) of all traffic to protect your security and privacy.[^2]
 
 ## Utilities
 
@@ -58,3 +57,5 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather "Breezy Weather on GitHub") - Weather app with a nice looking UI.
 - [LibreSpeed App](https://f-droid.org/packages/com.dosse.speedtest/ "LibreSpeed on F-Droid") - Unofficial app for [LibreSpeed - Speed Test](https://librespeed.org/) website. Forget speedtest.net🤮. 
 
+[^1]: I moved from [Aegis](https://getaegis.app/ "Aegis Authenticator") as Ente supports sync across devices.
+[^2]: **Disclaimer**: I am paying for the Pro tier and installed it on my family's devices.

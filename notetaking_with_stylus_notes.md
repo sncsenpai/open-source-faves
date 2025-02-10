@@ -34,4 +34,4 @@ I finally settled on OneNote. It's cross-platform, has a web-clipper, supports m
 [^2]: Also available on Chromebook
 [^3]: Maintainer issues
 [^4]: Samsung devices only
-[^5]: https://www.xda-developers.com/get-samsung-notes-windows-10-app/
+[^5]: [How to get the Samsung Notes app on any Windows PC](https://www.xda-developers.com/get-samsung-notes-windows-10-app/)

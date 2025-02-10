@@ -18,7 +18,7 @@ This is a list of propietary software that I decided to use rather than going fo
 
 ## Utilities
 
-- [Magnet](https://magnet.crowdcafe.com/) - snap windows into organised tiles to manage your workspace.
+- [Magnet](https://magnet.crowdcafe.com/) - snap windows into organised tiles to manage your workspace.[^4]
 
 [Special Characters]: https://github.com/sncsenpai/alfred-specialchars-snippet
 [Fraction Shortcuts]: https://github.com/sncsenpai/alfred-fc-snippets
@@ -30,3 +30,4 @@ This is a list of propietary software that I decided to use rather than going fo
 [^1]: While [GIMP](https://www.gimp.org/) is very powerful, I'm held back by my familiarity with [Adobe Photoshop]. [Affinity Photo] is not free, but it is a fantastic alternative.
 [^2]: This is not free, but I am currently assessing some FOSS alternatives.
 [^3]: I used [Franz] a while back but it's now following a commercial model and the free version is way too limited. [Rambox] is similar and no longer open source.
+[^4]: I discovered [Rectangle](https://rectangleapp.com/) a bit too late. While open source, you can pay for a more "pro" version.

@@ -17,9 +17,21 @@
 | Nebo          | N           | N          | Y     | Y     | Y       | Y     | Free; in-app purchases                |
 | CollaNote     | N           | N          | N     | Y     | N       | Y     | Free                                  |
 
-## Footnotes
+## Observations
+
+- Not all subscription notes were easily identifiable on the websites, but available as a purchase through the respective app stores.
+- Some apps are only available on Apple devices.
+- Weirdness from Samsung to access Notes on a Windows device manufactured by them. The steps documented on [XDA Developers][1] for Windows 10 worked for me on Windows 11.
+- I'm looking for something that has cross-platform support.
+- Joplin does support using a stylus but doesn't work with my madness.
+
+## Final choice
+
+I finally settled on OneNote. It's cross-platform, has a web-clipper, supports my devices (S22 Ultra, Tab S8 Ultra, Macbook Pro, and Windows PC), and I really like the hierarchical way to organise my sections, notebooks and pages. Plus, the ink-to-writing is awesome!
+
 
 [^1]: One-time fee
 [^2]: Also available on Chromebook
 [^3]: Maintainer issues
 [^4]: Samsung devices only
+[1]: https://www.xda-developers.com/get-samsung-notes-windows-10-app/

@@ -12,6 +12,10 @@ It's gonna happen, right? Some apps just don't quite hit the mark on the search 
 - [Kobo app](https://www.kobo.com/) - the alternative to Amazon for purchasing eBooks and audio books.
   - I also have Kobo Reader and have connected it to [OverDrive] to borrow books
 
+## Productivity
+
+- [OneNote](https://www.onenote.com/) - Free and powerful note-taking app with good organisation and stylus support.
+
 ## Navigation
 
 - [MagicEarth](https://www.magicearth.com/) - Very capable and privacy-friendly app, which works with [Android Auto].

@@ -6,11 +6,15 @@ It's gonna happen, right? Some apps just don't quite hit the mark on the search 
 
 - [Plexamp](https://www.plex.tv/plexamp/) - Plex is a descendent of XBMC[^1] and Plexamp is their offering to stream music from your media server.
 
+## Creative
+
+- [LumaFusion](https://play.google.com/store/apps/details?id=com.luma_touch.lumafusion "Play Store") - Multi-track video editing
+
 ## Reading
 
 - [Libby](https://libbyapp.com) - support your local library by borrowing eBooks, audio books, magazines, and plenty more. [^2]
 - [Kobo app](https://www.kobo.com/) - the alternative to Amazon for purchasing eBooks and audio books.
-  - I also have Kobo Reader and have connected it to [OverDrive] to borrow books
+  - I also have a Kobo eReader and have connected it to [OverDrive] to borrow books
 
 ## Productivity
 

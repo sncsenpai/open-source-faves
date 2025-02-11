@@ -43,7 +43,7 @@ This is not an exhaustive list, but what I like and do use on my Samsung phone.
 
 ## Security
 
-- ~[Bitwarden](https://bitwarden.com/ "Bitwarden") - Password manager.~
+- ~[Bitwarden](https://bitwarden.com/ "Bitwarden")~ [Proton Pass](https://f-droid.org/en/packages/proton.android.pass.fdroid/)- Password manager.
 - [ProtonVPN](https://f-droid.org/en/packages/ch.protonvpn.android/) - Yup, a VPN client.
 - [Ente Auth](https://ente.io/auth/ "Ente Auth") - Multifactor authenticator.[^1]
 - [NextDNS](https://nextdns.io/ "NextDNS") - An absolutely brilliant DNS filtering (not lookup) of all traffic to protect your security and privacy.[^2]

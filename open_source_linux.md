@@ -30,8 +30,7 @@ Here, I will present my list of favourite FOSS software I use on Zorin.
 
 ## Development
 
-- [VSCodium](https://vscodium.com/ "VSCodium") - a FLOSS version of VSCode without Microsoft telemetry.
-  - Download extensions from [Open VSX Reigstry](https://open-vsx.org/ "Open VSX Reigstry").
+- [VSCodium](https://vscodium.com/ "VSCodium") - a FLOSS version of VSCode without Microsoft telemetry.[^1][^2]
 - [Mermaid](https://mermaid.js.org/ "Mermaid") - Markdown inspired diagramming tool.
 
 ## Productivity
@@ -44,11 +43,14 @@ Here, I will present my list of favourite FOSS software I use on Zorin.
 
 - [Bitwarden](https://bitwarden.com/ "Bitwarden") - Password manager.
 - [Ente Auth](https://ente.io/auth/ "Ente Auth") - Multifactor authenticator.
-- [NextDNS](https://nextdns.io/ "NextDNS") - An absolutely brilliant DNS filtering (not lookup) of all traffic to protect your security and privacy.
-  - **Disclaimer**: I am paying for the Pro tier and installed on my family's devices.
+- [NextDNS](https://nextdns.io/ "NextDNS") - An absolutely brilliant DNS filtering (not lookup) of all traffic to protect your security and privacy.[^3]
 
 ## Utilities
 
 - [PeaZip](https://peazip.github.io/ "PeaZip") - file archiver with 7z support. I love 7zip but this interface is better.
-- [LocalSend](https://localsend.org/ "LocalSend") - cross-platform file sharing.
-  - **Note:** this is WiFi-based and devices need to be on the same network.
+- [LocalSend](https://localsend.org/ "LocalSend") - cross-platform file sharing[^4]
+
+[^1]: Download extensions from [Open VSX Reigstry](https://open-vsx.org/ "Open VSX Reigstry").
+[^2]: It is distributed as a Snap package. If that's not your cup of tea consider looking at [CudaText](https://cudatext.github.io/).
+[^3]: **Disclaimer**: I am paying for the Pro tier and have installed on all my family's devices.
+[^4]: **Note**: this is WiFi-based and devices need to be on the same network.

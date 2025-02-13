@@ -38,7 +38,7 @@ Here, I will present my list of favourite FOSS software I use on Zorin.
 
 - [scrcpy](https://github.com/Genymobile/scrcpy "scrcpy") - Mirror video and audio from your Android device. Really useful when presenting mobile apps.
 - [Okular](https://okular.kde.org/ "Okular") - Cross-platform document viewer. Supports PDF forms and signatures, and allows for annotations.
-- [Share X](https://getsharex.com/ "Share X") - Fully-fledged, yet lightweight, screen capture (screenshot/recording) with built-in annotation tools. 
+- [Flameshot](https://flameshot.org/ "Flameshot") - Fully-fledged, yet lightweight, screen capture (screenshot/recording) with built-in annotation tools. 
 
 ## Security
 

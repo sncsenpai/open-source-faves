@@ -2,20 +2,20 @@
 
 ## List
 
-| App name      | Web clipper | Browser    | Win   | macOS | Android | iOS   | Price (annual)                        |
-|---------------|:-----------:|:----------:|:-----:|:-----:|:-------:|:-----:|---------------------------------------|
-| [Evernote]    | Y           | Y          | Y     | Y     | Y       | Y     | Free; Personal: £79.99; Pro: £104.99  |
-| [OneNote]     | Y           | Y          | Y     | Y     | Y       | Y     | Free                                  |
-| [Google Keep] | Partial     | Y          | N     | N     | Y       | Y     | Free                                  |
-| Notability    | N           | N          | N     | Y     | N       | Y     | Free; Pro: App Store                  |
-| Goodnotes     | N           | Y          | Y     | Y     | Y       | Y     | Free; All OS: £9.99; Android+Win: £6.99; Apple: £29.99 [^1] |
-| Joplin        | Y           | N          | Y     | Y     | Y       | Y     | Open source; Basic cloud: €28.69; Pro cloud: €57.84 |
-| Apple Notes   | N           | Y          | N     | Y     | N       | Y     | Free; iCloud subscription for storage |
-| Squid         | N           | N          | N     | N     | Y[^2]   | N     | Free; Premium: Play Store             |
-| Xournal++     | N           | N          | Y     | Y     | X[^3]   | X[^3] | Open source                           |
-| Samsung Notes | N           | N          | Y[^4] | N     | Y[^4]   | N     | Free                                  |
-| [Nebo]        | N           | N          | Y     | Y     | Y       | Y     | Free; in-app purchases                |
-| CollaNote     | N           | N          | N     | Y     | N       | Y     | Free                                  |
+| App name        | Web clipper | Browser    | Win   | macOS | Android | iOS   | Price (annual)                        |
+|-----------------|:-----------:|:----------:|:-----:|:-----:|:-------:|:-----:|---------------------------------------|
+| [Evernote]      | Y           | Y          | Y     | Y     | Y       | Y     | Free; Personal: £79.99; Pro: £104.99  |
+| [OneNote]       | Y           | Y          | Y     | Y     | Y       | Y     | Free                                  |
+| [Google Keep]   | Partial     | Y          | N     | N     | Y       | Y     | Free                                  |
+| [Notability]    | N           | N          | N     | Y     | N       | Y     | Free; Pro: App Store                  |
+| [Goodnotes]     | N           | Y          | Y     | Y     | Y       | Y     | Free; All OS: £9.99; Android+Win: £6.99; Apple: £29.99 [^1] |
+| [Joplin]        | Y           | N          | Y     | Y     | Y       | Y     | Open source; Basic cloud: €28.69; Pro cloud: €57.84 |
+| [Apple Notes]   | N           | Y          | N     | Y     | N       | Y     | Free; iCloud subscription for storage |
+| [Squid]         | N           | N          | N     | N     | Y[^2]   | N     | Free; Premium: Play Store             |
+| [Xournal++]     | N           | N          | Y     | Y     | X[^3]   | X[^3] | Open source                           |
+| [Samsung Notes] | N           | N          | Y[^4] | N     | Y[^4]   | N     | Free                                  |
+| [Nebo]          | N           | N          | Y     | Y     | Y       | Y     | Free; in-app purchases                |
+| [CollaNote]     | N           | N          | N     | Y     | N       | Y     | Free                                  |
 
 ## Observations
 
@@ -39,4 +39,12 @@ I finally settled on OneNote. It's cross-platform, has a web-clipper, supports m
 [Evernote]:https://evernote.com/
 [OneNote]:https://onenote.com/
 [Google Keep]:https://keep.google.com/
+[Notability]:https://notability.com/
+[Goodnotes]:https://www.goodnotes.com/
+[Joplin]:https://joplinapp.org/
+[Apple Notes]:https://www.icloud.com/notes
+[Squid]:https://www.squidnotes.com/
+[Xournal++]:https://xournalpp.github.io/
+[Samsung Notes]:https://www.samsung.com/us/support/owners/app/samsung-notes
 [Nebo]:https://www.myscript.com/notes/
+[CollaNote]:https://www.collanote.com/home

@@ -19,6 +19,7 @@ This is a list of propietary software that I decided to use rather than going fo
 ## Utilities
 
 - [Magnet](https://magnet.crowdcafe.com/) - snap windows into organised tiles to manage your workspace.[^4]
+- [Keka](https://www.keka.io/) - file archiver with 7z support.
 
 [Special Characters]: https://github.com/sncsenpai/alfred-specialchars-snippet
 [Fraction Shortcuts]: https://github.com/sncsenpai/alfred-fc-snippets

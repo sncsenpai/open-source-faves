@@ -27,7 +27,6 @@ This is a list of free but propietary software that I decided to use rather than
 
 - [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) - thoroughly uninstall software from your machine
 - [ClipClip](https://clipclip.com/) - clipboard manager. It is very close to how I use [Clipy] on macOS.
-- [Keka](https://www.keka.io/) - file archiver with 7z support.
 
 [Clipy]: https://clipy-app.com/
 [Pandoc]: https://pandoc.org/
